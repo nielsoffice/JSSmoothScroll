@@ -16,7 +16,7 @@ JavaScript smooth scroll effect
 ```
 
 ```CSS
- #div_block-2308-389 { margin-bottom: 750px;
+ #div_block-2308-389 { margin-bottom: 750px; }
 ```
 
 ```JS
